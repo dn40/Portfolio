@@ -158,6 +158,16 @@
 }
 
 .owl-carousel {
-    margin-right: 15px;
-    margin-left: 15px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.what {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.thumbnail {
+    width: 100px;
+    height: 100px;
 }
