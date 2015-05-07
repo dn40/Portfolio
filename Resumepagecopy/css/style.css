@@ -1,0 +1,232 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+nav ul li {
+    margin-right: 40px;
+    display: inline;
+    list-style-type: none;
+    z-index: 1;
+}
+
+.rowOne {
+    margin-right: 100px;
+}
+
+.container {
+    margin-top: 80px;
+}
+
+.twitter {
+    width: 20px;
+}
+
+.linkedin {
+    width: 20px;
+}
+
+img {
+    width: 300px;
+}
+
+.rowTwo {
+    font-size: 20px;
+}
+
+.jumbotron {
+    background: url("../img/resumeimage (1).jpg") no-repeat;
+    background-size: cover;
+    height: 800px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: red;
+}
+
+.name {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.box1 {
+    width: 100px;
+}
+
+.box2 {
+    width: 75px;
+}
+
+.stats {
+    background-color: #dddddd;
+    height: 200px;
+}
+
+.what {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.services {
+    font-size: 20px;
+    margin: 20px;
+}
+
+.container-fluidgrey {
+    background-color: #dddddd;
+    height: 300px;
+    width: 100%;
+    font-size: 20px;
+}
+
+.submit {
+    margin-left: 800px;
+}
+
+.rowThree {
+    margin-top: 20px;
+}
+
+.rowFour {
+    margin-top: 20px;
+}
+
+.status {
+    font-size: 20px;
+    padding: 20px 0px;
+}
+
+.resume {
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.experience {
+    padding: 100px 0px;
+}
+
+.education {
+    font-size: 20px;
+}
+
+.work {
+    padding: 100px 0px;
+}
+
+.psychology {
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.line1 {
+    width: 300px;
+    display: center;
+}
+
+.assoc {
+    padding: 25px 0px;
+}
+
+.degree {
+    padding: 10px 0px;
+    font-size: 15px;
+}
+
+.af {
+    margin-top: 120px;
+}
+
+.end2 {
+    font-size: 15px;
+}
+
+.python2 {
+    font-size: 15px;
+}
+
+.CV {
+    color: blue;
+}
+
+.btn-default {
+    border: 1px 1px;
+    border-color: red;
+}
+
+.end {
+    margin-top: 60px;
+}
+
+.year {
+    font-size: 15px;
+}
+
+.year2 {
+    font-size: 15px;
+}
+
+.USAF {
+    margin-top: 20px;
+}
+
+.customer {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container-fluidblack {
+    background-color: black;
+    height: 825px;
+}
+
+.contact {
+    font-size: 50px;
+    color: white;
+}
+
+.list {
+    list-style-type: square;
+    color: white;
+}
+
+.web {
+    color: #DC143C;
+    list-style-type: square;
+}
+
+.drop {
+    color: white;
+}
+
+.alone {
+    color: white;
+    margin-top: 50px;
+}
+
+.form-group {
+    padding: 100px 0px;
+}
+
+.Name1 {
+    margin-top: 150px;
+    padding-bottom: : 10px;
+}
+
+.mail {
+    margin-bottom: 10px;
+}
+
+.button {
+    margin-top: 20px;
+    border-color: red;
+}
+
+.rowThree {
+    padding: 20px 0px 10px 0px;
+}
+
+footer {
+    color: white;
+    width: 100%;
+}
+
+.containerfoot {
+    margin-top: 15px;
+}

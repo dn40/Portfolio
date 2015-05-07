@@ -1,0 +1,55 @@
+.site {
+    font-weight: bold;
+}
+
+#container2 {
+    border: solid;
+    font-size: 20px;
+    display: -webkit-flex;
+    display: block;
+    width: 400px;
+    height: 500px;
+    background-color: #dddddd;
+}
+
+.button {
+    border-color: #8ABD2B;
+    background-color: #C8F279;
+    height: 30px;
+    margin: 20px;
+}
+
+body {
+    color: #555555;
+}
+
+img {
+    width: 100px;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.box {
+    width: 100%;
+    height: 100px;
+    background-color: #dddddd;
+}
+
+.image:first-child {
+    margin-right: auto;
+}
+
+form textarea {
+    display: block;
+}
+
+.nav li {
+    align-self: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    list-style: none;
+}
