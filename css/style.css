@@ -2,8 +2,9 @@
     background: url("../imgs/Reen.gif") no-repeat;
     height: 450px;
 }
-.container{
-    margin-top: 50px;
+
+.container {
+    margin-top: 100px;
 }
 /*for Navbar*/
 
@@ -54,6 +55,10 @@
     font-family: "Lato";
     color: rgb(80, 106, 133);
     font-weight: bold;
+    text-align: center;
+}
+
+.Reen {
     text-align: center;
 }
 
@@ -123,7 +128,7 @@
     margin-bottom: 100px;
 }
 
-.bluebg{
+.bluebg {
     background-color: rgb(40, 54, 69);
     margin-bottom: 0px;
     width: 100%;
@@ -132,28 +137,27 @@
     color: rgb(112, 126, 140);
 }
 
-.roach{
+.roach {
     margin-right: 20px;
     margin-top: 40px;
-
 }
-.copyright{
+
+.copyright {
     list-style-type: none;
 }
 
-.darkbluebg{
-background-color: rgb(47, 64, 82);
-font-weight: bold;
-width:100%;
+.darkbluebg {
+    background-color: rgb(47, 64, 82);
+    font-weight: bold;
+    width: 100%;
 }
 /*check out our latest work section*/
-.checkout{
-background-color: rgb(242,
-245,
-247);
-}
-.owl-carousel{
-    
+
+.checkout {
+    background-color: rgb(242, 245, 247);
 }
 
-
+.owl-carousel {
+    margin-right: 15px;
+    margin-left: 15px;
+}
