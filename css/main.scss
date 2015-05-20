@@ -1,0 +1,186 @@
+.jumbotron {
+    background: url("../imgs/Reen.gif") no-repeat;
+    height: 450px;
+}
+
+.container {
+    margin-top: 100px;
+}
+/*for Navbar*/
+
+.background {
+    background-color: rgb(245, 247, 251);
+    box-shadow: 0px 1px 0px 0px rgba(230, 233, 237, 0.004);
+    width: 100%;
+    max-height: 112px;
+    display: inline;
+    list-style-type: none;
+}
+/*for the top Navbar*/
+
+.background1 {
+    background-color: rgb(245, 247, 251);
+    box-shadow: 0px 1px 0px 0px rgba(230, 233, 237, 0.004);
+    width: 100%;
+    max-height: 40px;
+    list-style-type: none;
+    display: inline;
+}
+
+.list {
+    float: right;
+}
+
+.name {
+    float: left;
+    list-style-type: none;
+    display: inline;
+    margin-left: 20px;
+}
+
+.links {
+    margin-right: 70px;
+}
+
+.Made {
+    font-size: 78px;
+    font-family: "Lato";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.Beautiful {
+    font-size: 44px;
+    font-family: "Lato";
+    color: rgb(80, 106, 133);
+    font-weight: bold;
+    text-align: center;
+}
+
+.Reen {
+    text-align: center;
+}
+
+.Passion {
+    font-size: 26px;
+    font-family: "Lato";
+    color: rgb(80, 106, 133);
+    font-weight: bold;
+    text-align: left;
+}
+
+.Creativity {
+    font-size: 26px;
+    font-family: "Lato";
+    color: rgb(80, 106, 133);
+    font-weight: bold;
+    text-align: left;
+}
+
+.Quality {
+    font-size: 26px;
+    font-family: "Lato";
+    color: rgb(80, 106, 133);
+    font-weight: bold;
+    text-align: left;
+}
+
+.Check {
+    font-size: 44px;
+    font-family: "Lato";
+    color: rgb(80, 106, 133);
+    font-weight: bold;
+    text-align: center;
+}
+
+.Grand {
+    font-size: 20px;
+    font-family: "Lato";
+    color: rgb(80, 106, 133);
+    font-weight: bold;
+    line-height: 1.3;
+    text-align: center;
+}
+
+#owlimg {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 3px;
+}
+
+.Fresh {
+    font-size: 20px;
+    font-family: "Lato";
+    color: rgb(80, 106, 133);
+    font-weight: bold;
+    text-align: center;
+}
+
+.Want {
+    font-size: 44px;
+    font-family: "Lato";
+    color: rgb(80, 106, 133);
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.bluebg {
+    background-color: rgb(40, 54, 69);
+    margin-bottom: 0px;
+    width: 100%;
+    font-size: 14px;
+    font-family: "SourceSansPro";
+    color: rgb(112, 126, 140);
+    height:50px;
+}
+
+.roach {
+    margin-right: 20px;
+    
+}
+
+
+.darkbluebg {
+    background-color: rgb(47, 64, 82);
+    font-weight: bold;
+    width: 100%;
+    height:403px;
+    color:#849b87;
+}
+/*check out our latest work section*/
+
+.checkout {
+    background-color: rgb(242, 245, 247);
+}
+
+.owl-carousel {
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.what {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.thumbnail {
+    width: 100px;
+    height: 100px;
+}
+.navbar-brand{
+    color:white;
+    font-size:12px;
+    
+
+}
+.bottom{
+    min-height:60px;
+    background-color: rgb(40, 54, 69);
+    margin-bottom: 0;
+    width:100%;
+    
+}
